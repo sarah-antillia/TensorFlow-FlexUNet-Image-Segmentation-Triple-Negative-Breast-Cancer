@@ -116,7 +116,7 @@ On the derivation of the augmented dataset, please refer to the following Python
 <li><a href="./generator/split_master.py">split_master.py</a></li>
 <br>
 
-As shown above, the number of images of train and valid datasets is large enough to use for a training set of our segmentation model.
+As shown above, the number of images of train and valid datasets is not so large to use for a training set of our segmentation model.
 <br>
 <br>
 <b>Train_images_sample</b><br>
